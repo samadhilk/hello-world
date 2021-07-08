@@ -10,7 +10,7 @@ int main()
     //\n is used to end a line similar to endl
 
     cout << "Name\t:\tSamadhi\nAge\t:\t21";
-    //\t is used to add tab space
+    //\t is used to add tab a space
 
     return 0;
 }
